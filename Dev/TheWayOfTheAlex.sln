@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheWayOfTheAlex", "TheWayOfTheAlex\TheWayOfTheAlex.csproj", "{CE01206A-8156-43D3-8AEA-5170D940753F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheWayOfTheAlex.Tests", "TheWayOfTheAlex.Tests\TheWayOfTheAlex.Tests.csproj", "{BB6A84B3-FEEE-49C6-8DE7-75076A900F6B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE01206A-8156-43D3-8AEA-5170D940753F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE01206A-8156-43D3-8AEA-5170D940753F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE01206A-8156-43D3-8AEA-5170D940753F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE01206A-8156-43D3-8AEA-5170D940753F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB6A84B3-FEEE-49C6-8DE7-75076A900F6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB6A84B3-FEEE-49C6-8DE7-75076A900F6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB6A84B3-FEEE-49C6-8DE7-75076A900F6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB6A84B3-FEEE-49C6-8DE7-75076A900F6B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
