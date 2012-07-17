@@ -1,0 +1,53 @@
+EF 4.3 Code-Based Migrations Walkthrough - ADO.NET Blog - Site Home - MSDN Blogs
+http://blogs.msdn.com/b/adonet/archive/2012/02/09/ef-4-3-code-based-migrations-walkthrough.aspx
+
+GitHub for Windows
+http://windows.github.com/
+
+alexdresko/TheWayOfTheAlex
+https://github.com/alexdresko/TheWayOfTheAlex
+
+CodePlex - Open Source Project Hosting
+http://www.codeplex.com/
+
+T4MVC
+https://t4mvc.codeplex.com/documentation
+
+Overview
+http://demos.kendoui.com/web/overview/index.html
+
+JQuery Simple OpenID Selector Demo
+http://openid-selector.googlecode.com/svn/trunk/demo.html
+
+openid-selector - A user-friendly way to select an OpenID - Google Project Hosting
+http://code.google.com/p/openid-selector/
+
+DotNetOpenAuth - OpenID, OAuth, and InfoCard for .NET
+http://www.dotnetopenauth.net/
+
+Glimpse - A client side look at whats going on in your server
+http://getglimpse.com/About
+
+Glimpse - A client side look at whats going on in your server
+http://getglimpse.com/
+
+HTML5 Boilerplate - A rock-solid default template for HTML5 awesome.
+http://html5boilerplate.com/
+
+Twitter Bootstrap
+http://twitter.github.com/bootstrap/
+
+Scaffolding · Twitter Bootstrap
+http://twitter.github.com/bootstrap/scaffolding.html
+
+Base · Twitter Bootstrap
+http://twitter.github.com/bootstrap/base-css.html
+
+Components · Twitter Bootstrap
+http://twitter.github.com/bootstrap/components.html
+
+Initializr - Start an HTML5 Boilerplate project in 15 seconds!
+http://www.initializr.com/
+
+Less Css for .NET
+http://www.dotlesscss.org/
