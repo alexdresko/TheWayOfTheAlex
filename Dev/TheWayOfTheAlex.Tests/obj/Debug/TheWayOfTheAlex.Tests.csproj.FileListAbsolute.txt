@@ -70,3 +70,10 @@ C:\projects\TheWayOfTheAlex\Dev\TheWayOfTheAlex.Tests\bin\Debug\System.Web.WebPa
 C:\projects\TheWayOfTheAlex\Dev\TheWayOfTheAlex.Tests\obj\Debug\ResolveAssemblyReference.cache
 C:\projects\TheWayOfTheAlex\Dev\TheWayOfTheAlex.Tests\obj\Debug\TheWayOfTheAlex.Tests.dll
 C:\projects\TheWayOfTheAlex\Dev\TheWayOfTheAlex.Tests\obj\Debug\TheWayOfTheAlex.Tests.pdb
+C:\projects\TheWayOfTheAlex\Dev\TheWayOfTheAlex.Tests\bin\Debug\Moq.dll
+C:\projects\TheWayOfTheAlex\Dev\TheWayOfTheAlex.Tests\bin\Debug\WebActivator.dll
+C:\projects\TheWayOfTheAlex\Dev\TheWayOfTheAlex.Tests\bin\Debug\MiniProfiler.dll
+C:\projects\TheWayOfTheAlex\Dev\TheWayOfTheAlex.Tests\bin\Debug\Moq.pdb
+C:\projects\TheWayOfTheAlex\Dev\TheWayOfTheAlex.Tests\bin\Debug\Moq.xml
+C:\projects\TheWayOfTheAlex\Dev\TheWayOfTheAlex.Tests\bin\Debug\MiniProfiler.pdb
+C:\projects\TheWayOfTheAlex\Dev\TheWayOfTheAlex.Tests\bin\Debug\MiniProfiler.xml

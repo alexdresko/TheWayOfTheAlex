@@ -1,7 +1,11 @@
-﻿<!DOCTYPE html>
+﻿@* Required so you have extention methods for client timings *@
+@using StackExchange.Profiling;
+<!DOCTYPE html>
 <html lang="en">
     <head>
-        <meta charset="utf-8" />
+		<meta charset="utf-8" />
+		@* optional (enable client timing framework) *@ 
+		@this.InitClientTimings()
         <title>@ViewBag.Title - My ASP.NET MVC Application</title>
         <link href="~/favicon.ico" rel="shortcut icon" type="image/x-icon" />
         <meta name="viewport" content="width=device-width" />
@@ -47,7 +51,7 @@
                 </div>
             </div>
         </footer>
-
+		@MiniProfiler.RenderIncludes()
         @Scripts.Render("~/bundles/jquery")
         @RenderSection("scripts", required: false)
     </body>

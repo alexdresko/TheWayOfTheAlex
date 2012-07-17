@@ -114,3 +114,9 @@ C:\projects\TheWayOfTheAlex\Dev\TheWayOfTheAlex\bin\Mono.Math.xml
 C:\projects\TheWayOfTheAlex\Dev\TheWayOfTheAlex\obj\Debug\ResolveAssemblyReference.cache
 C:\projects\TheWayOfTheAlex\Dev\TheWayOfTheAlex\obj\Debug\TheWayOfTheAlex.dll
 C:\projects\TheWayOfTheAlex\Dev\TheWayOfTheAlex\obj\Debug\TheWayOfTheAlex.pdb
+C:\projects\TheWayOfTheAlex\Dev\TheWayOfTheAlex\bin\GravatarHelper.dll
+C:\projects\TheWayOfTheAlex\Dev\TheWayOfTheAlex\bin\MiniProfiler.dll
+C:\projects\TheWayOfTheAlex\Dev\TheWayOfTheAlex\bin\WebActivator.dll
+C:\projects\TheWayOfTheAlex\Dev\TheWayOfTheAlex\bin\GravatarHelper.xml
+C:\projects\TheWayOfTheAlex\Dev\TheWayOfTheAlex\bin\MiniProfiler.pdb
+C:\projects\TheWayOfTheAlex\Dev\TheWayOfTheAlex\bin\MiniProfiler.xml
